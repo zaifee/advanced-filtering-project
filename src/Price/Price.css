@@ -1,0 +1,10 @@
+.price-title{
+  margin-top: 20px;
+  
+    
+}
+.ml{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
